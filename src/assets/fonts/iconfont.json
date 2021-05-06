@@ -1,0 +1,65 @@
+{
+  "id": "2419033",
+  "name": "icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7578846",
+      "name": "用户",
+      "font_class": "denglu1",
+      "unicode": "e7d8",
+      "unicode_decimal": 59352
+    },
+    {
+      "icon_id": "8084566",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "2583881",
+      "name": "叉叉",
+      "font_class": "chacha",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "18941495",
+      "name": "按钮",
+      "font_class": "anniu",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "1255992",
+      "name": "向左",
+      "font_class": "xiangzuo1",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "510999",
+      "name": "向右箭头",
+      "font_class": "xiangyoujiantou",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "7556163",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "2077547",
+      "name": "向下箭头",
+      "font_class": "xiangxiajiantou",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    }
+  ]
+}
