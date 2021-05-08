@@ -29,8 +29,8 @@
       return {
         // 登录信息
         loginform: {
-          username: '',
-          password: null
+          username: 'admin',
+          password: "123456"
         },
         // 登录验证规则
         rules: {
