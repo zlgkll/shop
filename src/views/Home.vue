@@ -71,7 +71,7 @@
         if(res.meta.status !== 200)
           return this.$message.error(res.meta.msg)
         this.menulist = res.data
-        console.log(this.menulist);
+        //console.log(this.menulist);
       },
       // 点击按钮，菜单栏折叠、展开
       toggleCollapse() {
