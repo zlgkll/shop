@@ -1,0 +1,1 @@
+http://106.53.73.30:8888/api/private/v1/login?username=admin&password=123456
